@@ -1,12 +1,10 @@
-## ❤️ MEVN Stack Boilerplate
+## MEVN Stack Boilerplate
 
 ### ✨ Mongodb, ExpressJS, Vue 3, Node
 
 This is a `MEVN stack boilerplate` that contains `Mongodb`, `ExpressJS`, `Vue 3`, `NodeJS`. Additionally, you can find `Nuxt3` (not yet), `TipTap` (Headless WYSIWYG Text Editor), `Vuetify` (A Material Design Framework for Vue.js), and `Vuexy` (Admin dashboard with Vue 3) in this repo. This repo aims to be most comprehensive mevn stack boilerplate. Thus, please do not hesitate to contribute to this repo with comments or PRs.
 
 I have started to create this repo as an admin dashboard. Now, there is a client side for this repo with `Nuxt 3`.
-
-Open Source ❤
 
 ###  ☝️ .env file in the `server` folder
 
